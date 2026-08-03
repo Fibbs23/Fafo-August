@@ -1,0 +1,30 @@
+{
+  "colorPalette": "rose-pink",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260802-182553-dy9b",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-08-03T00:25:53.000Z",
+      "dateEnd": "2026-08-03T01:24:35.000Z",
+      "dateLabel": "8/2/2026, 6:25:53 PM - 8/2/2026, 7:24:35 PM",
+      "url": "https://fibbs23.github.io/Fafo-August/?report=20260802-182553-dy9b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 58
+      }
+    }
+  ]
+}
