@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-180315-3jgq",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-19T00:03:15.000Z",
+      "dateEnd": "2026-08-19T01:16:56.137Z",
+      "dateLabel": "8/18/2026, 6:03:15 PM - 8/18/2026, 7:16:56 PM",
+      "url": "https://Fibbs23.github.io/Fafo-August/?report=20260818-180315-3jgq",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260816-175820-2tkd",
       "title": "Lightspeed Jack",
       "commanders": [
