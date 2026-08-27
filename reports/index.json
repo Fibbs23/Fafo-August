@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-183731-q96b",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-27T00:37:31.000Z",
+      "dateEnd": "2026-08-27T01:37:52.341Z",
+      "dateLabel": "8/26/2026, 6:37:31 PM - 8/26/2026, 7:37:52 PM",
+      "url": "https://Fibbs23.github.io/Fafo-August/?report=20260826-183731-q96b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260825-175829-rbkg",
       "title": "Fíbbs",
       "commanders": [
